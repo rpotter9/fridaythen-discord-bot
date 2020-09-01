@@ -1,0 +1,2 @@
+# FridayThen Discord Bot
+
